@@ -1,0 +1,4 @@
+# 年龄计算器
+- insert:
+    - id: dsh-calc-age
+      name: "@liangjiehappy/dsh-calc-age"
